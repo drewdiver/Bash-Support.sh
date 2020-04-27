@@ -1,0 +1,6 @@
+if #SELECTIONORINSERTION#
+then
+	<-IF_PART->
+else
+	<+ELSE_PART+>
+fi

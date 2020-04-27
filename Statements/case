@@ -1,0 +1,10 @@
+case #SELECTIONORINSERTION# in
+	)
+	;;
+
+	)
+	;;
+
+	*)
+	;;
+esac    # --- end of case ---

@@ -1,0 +1,21 @@
+#!/bin/bash -
+#===============================================================================
+#
+#          FILE: #FILE#
+#
+#         USAGE: ./#FILE#
+#
+#   DESCRIPTION:
+#
+#       OPTIONS: ---
+#  REQUIREMENTS: ---
+#          BUGS: ---
+#         NOTES: ---
+#        AUTHOR: #NAME#
+#  ORGANIZATION:
+#       CREATED: #DATETIME MM/dd/yyyy HH:mm:ss#
+#      REVISION: ---
+#===============================================================================
+
+set -o nounset                              # Treat unset variables as an error
+
