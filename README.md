@@ -11,10 +11,7 @@ of common shell statements.
 
 Copy the Bash Support folder to your `~/Library/Application Support/BBEdit/Clippings` directory.
 
-## Usage
-
-When working with a shell file, you can begin typing `File Header` and it will generate
-the following:
+When working with a shell file, you can begin typing `File Header` or selecting from Menu > Clippings > Bash Support > Comments and it will generate the following:
 
 ```
 #!/bin/bash -
@@ -39,6 +36,8 @@ the following:
 set -o nounset                              # Treat unset variables as an error
 
 ```
+
+You can view the other Clippings examples via this repo or install and play.
 
 ## To-do
 
