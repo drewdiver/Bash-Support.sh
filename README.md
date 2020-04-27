@@ -11,6 +11,9 @@ of common shell statements.
 
 Copy the Bash Support folder to your `~/Library/Application Support/BBEdit/Clippings` directory.
 
+
+## Examples
+
 When working with a shell file, you can begin typing `File Header` or selecting from Menu > Clippings > Bash Support > Comments and it will generate the following:
 
 ```
@@ -37,8 +40,27 @@ set -o nounset                              # Treat unset variables as an error
 
 ```
 
-You can view the other Clippings examples via this repo or install and play.
+Type `Section` to get a list of common headers to help organize your scripts:
+
+For instance `Section - Main Script` inserts:
+
+```
+#===============================================================================
+# MAIN SCRIPT
+#===============================================================================
+```
+
+Or a more descriptive function header:
+
+```
+#---  FUNCTION  ----------------------------------------------------------------
+#          NAME: 
+#   DESCRIPTION:  
+#    PARAMETERS:  
+#       RETURNS:  
+#-------------------------------------------------------------------------------
+```
 
 ## To-do
 
-Add common Tests
+Add Tests
