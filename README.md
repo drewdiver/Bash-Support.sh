@@ -9,7 +9,7 @@ of common shell statements.
 
 ## Installation
 
-Copy the Bash Support folder to your `~/Library/Application Support/BBEdit/Clippings` directory.
+Copy the Bash Support.sh folder to your `~/Library/Application Support/BBEdit/Clippings` directory.
 
 
 ## Examples
